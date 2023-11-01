@@ -18,3 +18,8 @@ Currently, two official plugins are available:
 - react-color
 
 ![image](https://github.com/burcinismail8/nextjs-threejs-tshirt-app/assets/70316198/40ba6d6c-c7f9-46af-ba49-eb9261152dc7)
+
+![image](https://github.com/burcinismail8/nextjs-threejs-tshirt-app/assets/70316198/77f70c97-ca37-44c2-ba4c-d2f0b41fb1c7)
+
+![image](https://github.com/burcinismail8/nextjs-threejs-tshirt-app/assets/70316198/06098673-4946-46f0-a660-123d9bd0fd53)
+
