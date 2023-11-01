@@ -9,10 +9,10 @@ Currently, two official plugins are available:
 
 # Used Technologies
 
-React.js
-Three.js
-Vite
-TailwindCSS
-Maath
-Valtio
-react-color
+- React.js
+- Three.js
+- Vite
+- TailwindCSS
+- Maath
+- Valtio
+- react-color
