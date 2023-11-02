@@ -17,6 +17,9 @@ Currently, two official plugins are available:
 - Valtio
 - react-color
 
+  # Link to the project:
+  https://nextjs-threejs-tshirt-6pucxzsav-burcinismail8.vercel.app/
+
 ![image](https://github.com/burcinismail8/nextjs-threejs-tshirt-app/assets/70316198/40ba6d6c-c7f9-46af-ba49-eb9261152dc7)
 
 ![image](https://github.com/burcinismail8/nextjs-threejs-tshirt-app/assets/70316198/77f70c97-ca37-44c2-ba4c-d2f0b41fb1c7)
