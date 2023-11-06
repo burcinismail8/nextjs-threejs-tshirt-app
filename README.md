@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 # Used Technologies
 
 - React.js
+- Next.js
 - Three.js
 - Vite
 - TailwindCSS
